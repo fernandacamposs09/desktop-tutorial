@@ -1,5 +1,14 @@
-# Welcome to GitHub Desktop!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+# proyecto-paec-digital
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Fernanda Campos
+
+## 3 cosas favoritas
+
+1. Jugar fútbol
+2. Cocinar
+3. Escuchar música
+
+## Metas
+
+Terminar mis estudios y tener una buena profesión. 
